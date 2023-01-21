@@ -1,4 +1,6 @@
-# "Aim Training" <kbd>Самостоятельная работа</kbd>
+# "Aim Training" 
+
+<kbd>Самостоятельная работа</kbd>
 
 ## Описание проекта:
 
@@ -10,12 +12,10 @@
 - HTML;
 - CSS(SCSS);
 - React.JS
-- Сборка кода с помощью Webpack'a;
-- Подключение сайта к серверу;
 - БЭМ;
 
 ### `Статус проекта:` <kbd>Готов</kbd>
 
 [Репозиторий](https://github.com/iEasyJet/aim-training)
 
-[Gh-Pages](https://ieasyjet.github.io/aim-training/)
+[gh-Pages](https://ieasyjet.github.io/aim-training/)
