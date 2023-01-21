@@ -1,4 +1,4 @@
-# "Aim Training"
+# "Aim Training" <kbd>Самостоятельная работа</kbd>
 
 ## Описание проекта:
 
